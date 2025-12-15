@@ -1,0 +1,5 @@
+{
+  "name": "AutoAnalyst",
+  "description": "An AI-powered data analytics platform that ingests datasets, profiles them, and dynamically generates dashboards and insights using Gemini.",
+  "requestFramePermissions": []
+}
